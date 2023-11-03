@@ -1,0 +1,1 @@
+This repository is for magnetic regression of curie temperatures and neel temperatures.

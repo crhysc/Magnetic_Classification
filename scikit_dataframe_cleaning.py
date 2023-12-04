@@ -4,13 +4,11 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.impute import SimpleImputer
 
-# Example data (replace this with your dataset)
-data = {
-}
+data = []
 
 # Separate features and target
 X = pd.DataFrame(data, columns=['numeric_feature', 'categorical_feature'])
-y = data['target']
+y = []
 
 # Define preprocessing steps
 numeric_features = ['numeric_feature']

@@ -1,4 +1,3 @@
-import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
@@ -12,7 +11,7 @@ for key, value in data.items():
         curie_temps.append(curie_temp_i)
 
 # Create a histogram
-plt.hist(curie_temps, bins=100, color='blue', alpha=0.7)
+plt.hist(curie_temps, bins=70, color='blue', alpha=0.7)
 
 # Add labels and a title
 plt.xlabel('Curie Temperatures')

@@ -9,30 +9,23 @@ with open(cif_file_path, 'r') as file:
     cif_content = file.read()
 
 # Parse CIF content using pymatgen
-parser = CifParser.from_str(cif_content)
+parser = CifParser.from_string(cif_content)
 structure = parser.get_structures()[0]
 
-# Create a dictionary to store the data
+# Create a dictionary to store occupancy data
 data = {
     "Element": [],
-    "Type Symbol": [],
-    "Fractional x": [],
-    "Fractional y": [],
-    "Fractional z": [],
+    "Occupancy": [],
 }
 
-# Extract atom site information
+# Extract occupancy information
 for site in structure.sites:
     data["Element"].append(site.species_string)
-    data["Type Symbol"].append(site.species_string.split()[0])  # Assuming the type symbol is the first part of the species string
-    data["Fractional x"].append(site.frac_coords[0])
-    data["Fractional y"].append(site.frac_coords[1])
-    data["Fractional z"].append(site.frac_coords[2])
-    
+    data["Occupancy"].append(site.properties.get("occupancy", 1.0))
+
 # Create a pandas DataFrame
-df = pd.DataFrame(data)
+df_occupancy = pd.DataFrame(data)
 
 # Display the DataFrame
-print(df)
-
+print(df_occupancy)
 

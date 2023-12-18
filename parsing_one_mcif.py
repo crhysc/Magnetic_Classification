@@ -19,6 +19,7 @@ data = {
     "Fractional x": [],
     "Fractional y": [],
     "Fractional z": [],
+    "Occupancy": [],
 }
 
 # Extract atom site information
@@ -28,6 +29,7 @@ for site in structure.sites:
     data["Fractional x"].append(site.frac_coords[0])
     data["Fractional y"].append(site.frac_coords[1])
     data["Fractional z"].append(site.frac_coords[2])
+    data["Occupancy"].append(site.properties.get("occupancy", 1.0))
     
 # Create a pandas DataFrame
 df = pd.DataFrame(data)

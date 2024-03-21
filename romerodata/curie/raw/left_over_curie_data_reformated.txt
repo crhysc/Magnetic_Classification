@@ -1,0 +1,415 @@
+Ag19Eu1   	     		6.5±0.5         481			      
+Au1Fe1 			300		23	
+Au87Fe13 			40		2090	
+Au83Fe17 			148		2090				
+Au4Fe 				210		23				
+Au39Fe11 			220		2090			
+Au799Mn201 			377		2113				
+BiMn   			240		810			        
+Co4P1	 		        573		2027				
+-				118-124	2096			      
+Co1P4   			92		1930			
+Cr4Fe1 			81±5		372                          
+Cr409Fe91 	   	       50±5		372                               		
+Co393Ti107     		38		1476			
+Co18Ti7    			42		1727			
+Co71Ti29     			44		1727			
+Co84Ti41    			17		1727				
+Cr3Pt7          		687		860		             
+Cr3Te4			        325		1776		
+Cu1Ni1				346		212	
+Cu0.24Ni0.76			346		212		
+Cu0.66Ni0.44  			4.2	        1894			
+Cu0.775Mn0.225  		206		2013				
+Cu0.125Mn.0425Al0.45		433		468    		       
+Dy0.85Th0.15			119		1914            		
+Dy0.05Y0.95		       91		926	                       
+Dy0.10Ho0.90		       80		1014		               
+Er0.10Dy0.90   		31		1014		               
+Er0.50Dy0.50	               140		1014		            
+Er0.90Dy0.10		       65		1464	
+-				74		711,395	               
+Er0.95Th0.05			80		711,395	
+Er0.08Th0.92       		48	        711,395			
+Fe0.97Co0.03 			1079±9		1604
+Fe0.95Co0.05   		1093		1604	
+Fe0.9405Co0.0595   		1105±9		1604
+Fe0.9065Co0.0935  		1124±5		1604	
+Fe0.90Co0.10   		1143		1604	
+Fe0.84Co0.16   		1203		1604	
+Fe1.67Ge			485		448                           beta						
+Fe1.7Co0.3P1			423		436						
+Fe4N1			        761		1202	                      gamma	
+Fe0.045Ni0.955 		683.0		596	
+Fe0.19Ni0.81   		834.0		596	
+Fe0.20Ni0.80    		840		1398	
+-	   			200		1764				gamma
+Fe0.23Ni0.77    		876.0		596	
+Fe0.35Ni0.65    		943		1880	  			ordered
+-	    	       	 863		1880	  			disordered
+Fe0.40Ni0.60   		880		1398	
+-	    			923		1880      			ordered
+-		   		851		1880	  			disordered
+Fe0.45Ni0.55   		948		1880	  			ordered
+-		    		823		1880	  			disordered  
+Fe0.50Ni0.50   		786.1		596	
+Fe0.55Ni0.45    		956		1880	  			ordered	
+-		   		710		1880      			disordered	
+Fe0.60Ni0.40    		648		1398	
+Fe0.63Ni0.37    		916		1880    			ordered		
+-		   		553		1880				disordered 		
+Fe0.028Pd0.972     		95±3 		1657			hydrogen_free		
+Fe0.04Pd0.96     		106±3 		1657			hydrogen_free			
+-		      		103±3 		1657			alpha_max_hydride		
+-		     		6.4±5 		1657			beta_min_hydride 
+Fe0.072Pd0.928      		168±3 		1657			hydrogen_free 	
+-		     		163±3 		1657			alpha_max_hydride		
+-		      	        54±3           1657                 	beta_min_hydride		
+Fe0.103Pd0.897     	  	246±3 		1657			hydrogen_free		
+-		    	  	230±3 		1657			alpha_max_hydride		
+-		    		155±3 		1657			beta_min_hydride				
+Fe0.87Si0.13			953		816				
+Fe0.70Si0.30       		683		1034                       heat_treatment(oC)_1100
+-		    		723		1034                       heat_treatment(oC)_1050
+-	 		       763		1034                       heat_treatment(oC)_950
+-				808		1034                       heat_treatment(oC)_800
+Fe0.345Pt0.655			255±2		1404	        		
+Fe0.52Rh0.48    		773		799			
+Fe0.50Rh0.50  			678		799			
+Fe0.70Ti30 			380		557		
+Fe0.467V0.533			280		863		
+Fe0.888Zn0.112                 981.3±0.5	416	
+Fe0.799Zn0.201                 925.0±1.0	416	
+Fe2Zr1				628		864					
+Gd0.70Ce0.30			160		1735						
+Gd0.75Co0.25			180		2024		
+Gd0.40Co0.60			325		2024		
+Gd0.20Co0.80     		925		2024		
+Gd0.10Co0.90			1225		2024								
+Gd0.90Dy0.10   		285		361	
+Gd0.834Dy0.166			269		1653	
+Gd0.586Dy0.414			234		959	
+Gd0.50Dy0.50			226		361	
+Gd0.42Dy0.10			203		959	
+-				202		1653	
+Gd0.39Dy0.61			193		361	
+Gd0.287Dy0.713			165		1653	
+Gd0.125Dy0.875			120		361	
+Gd0.70La0.30			185		1735				
+Gd0.80Lu0.20			249	        395			
+Gd0.643Lu0.357			150	        395			
+Gd0.60Lu0.40			95	        395							
+Gd0.65Pr0.35			165		1735	
+Gd0.50Nd0.50			145		1735								
+Gd0.90Sc0.10			251		395	
+Gd0.80Sc0.20			212±4		264	
+Gd0.72Sc0.28			171		395	
+Gd0.69Sc0.31			60		395	
+-				160	        264							
+Gd0.90Y0.10			281		395	
+Gd0.80Y0.20			254±4		264	
+Gd0.667Y0.333			211		395	
+Gd0.60Y0.40			84±4		264	
+Ho1Er1				35		756	
+Ho0.20Tb0.80			171		675      
+Ho0.90Th0.10		        44		395,711		
+Ho0.85Th0.15			72		395,711		
+Ho0.804Y0.196   		20		40		
+Ho0.50Y0.50			24		40		
+Ho0.323Y0.677			25		40		
+Mn0.66Ga0.34			690		336   							
+Mn2TiO4			78		254	                               Beta		
+NiFe2O4			860		1085 
+NiFe0.5Al1.5O4	               470		1085          	
+Ni0.78Fe0.195Mn0.025		832		1398
+Ni0.72Fe0.18Mn0.10		672		1398
+Ni0.585Fe0.39Mn0.025		852		1398
+Ni0.54Fe0.36Mn0.10		640		1398
+Ni0.39Fe0.585Mn0.025		608		1398
+Ni0.36Fe0.54Mn0.10   	        396		1398
+Ni3Al				75		546,915					Sample_homogeneity_questionable
+Ni0.755Al0.245			58.1		1364				
+Ni0.944Cr0.056			324		798											
+Ni0.60Cu0.40	       	173		1016		
+-				216		798		
+Ni0.50Cu0.50			110		798		
+Ni0.92Ge0.08 			348		1035				
+Ni0.525Cu0.475 		72±2		1435		
+Ni0.50Cu0.50			35-45		1435			uncertaintity_35-45±3
+Ni0.464Cu0.536	               10-16		1435			uncertaintity_10-16±1
+Ni0.43Cu0.57 			<1		1435		
+Ni0.887Mn0.113			500		798			
+Ni0.912Si0.088			292		53
+Ni0.92Sn0.08			348		1035
+Ni0.9407V0.0593		308		1287
+Ni0.8869V0.1131		19		1287				
+Pd0.9993Co0.0007		1.55±0.1	1412
+Pd0.99902Co0.00098		0.79±0.01	1750
+Pd0.9981Co0.0019		6.5±0.5	1412
+Pd0.9980Co0.0020		2.95±0.05	1750
+Pd0.9951Co0.0049		18.8±3		1412
+Pd0.9949Co0.0051		16.2±0.2	1750
+Pd0.9895Co0.0105		44.0±0.5	1750
+Pd0.9809Co0.0191		90±1		1412
+Pd0.955Co0.045			186±1		1412
+Pd0.92Co0.08			281		1768     			0_Pressure
+Pd0.90Co0.1			423		1850
+Pd0.88Co0.12			357		1768     			0_Pressure
+Pd0.85Co0.15			419		1768
+Ni0.947P0.053	        	465		1940	                       annealed_at_373_K
+-			        641		1940	                       annealed_at_673_K
+Ni0.88P0.12                  	370		1809			
+Ni0.20Pd0.80			250		1720	
+Ni0.50Pd0.50			448		1597		
+-				467		1720	
+Ni0.80Pd0.20			583		1720	
+Ni60Pt0.40			213		1287			
+Ni45Pt0.45			202		53	
+Ni30Pt0.70			20		1287	
+Ni0.76Rh0.24			273		1287	
+Pd0.60Cr0.40			520		1268    			annealed_at_790K_weak_ferro
+Ni0.92Si0.08			453		1035						
+Pd0.9990Fe0.0010		0.78±0.002	1750		
+Pd0.9985Fe0.0015		2.12		977				
+Pd0.9984Fe0.0016		2.8		1750		
+Pd0.9982Fe0.0018		2.8		1493		
+Pd0.9959Fe0.0041		13.0		1750				
+Pd0.9955Fe0.0045		13.0		1493				
+Pd0.9950Fe0.0050		23		23				
+Pd0.9922Fe0.0078		32.6		1750		
+Pd0.9920Fe0.0080		49		797		
+Pd0.9910Fe0.0090		32.6		1493				
+Pd0.99Fe0.01			37		128		
+Pd0.975Fe0.025			90		128		
+Pd0.97Fe0.03			114		819		
+Pd0.93Fe0.07			200		819			
+Pd0.925Fe0.075			193		128			
+Pd0.90Fe0.10			237		128		
+Pd0.911Gd0.089			5		1885							
+Pd0.99Mn0.01			3.414		2064				
+Pd0.9895Mn0.0105		3.90±0.02	1584		
+Pd0.9865Mn0.0135	        4.477		1839				
+Pd0.976Mn0.0240		7.35±0.02	1584		
+Pd0.9709Mn0.0291		7.71±0.02	1584		
+Pd0.95Mn0.05			2		1925					
+Pr0.073Gd0.927			254		1708		
+Pr0.362Gd0.638			278		1708			
+Pd0.9805Ni0.0195		>2		1720				
+Pd0.95Ni0.05		        90		23				
+Pt0.992Co0.008			2.8		1411		
+Sc0.76In0.24			6		735	
+Pt0.99Co0.01			8		23		
+Pt0.90Co0.10			210		23			
+Pt0.75Cr0.25			423		1532							
+Pt0.826Fe0.174			305		702		
+Pt0.751Fe0.249			425		702		
+Pt0.72Fe0.28			230		1679
+Pt0.70Fe0.30			300		1679
+Pt0.657Fe0.343			250		702								
+Tb0.90Sc0.10			159	        395	
+Tb0.90Sc0.10			175		395	
+Tb0.80Sc0.20			<15    	395					
+U2N3				235±5		901	
+-				186		1039	                  alpha		
+VOSO4				4.2		1655                     alpha
+-				4		1833                     alpha_ferrimagnetic					
+Y3GaFe4O12			450±1		1448                     single_crystal
+-				458±1		1448                     powder
+Y3Ga1.84Fe3.16O12	        226.9±1	1448	                 single_crystal
+Y(Mn0.5Fe0.5)2			180		1001	   			
+Y6(Mn0.1Fe0.9)23		380		1001				
+Zr0.99Gd0.01Zn2		7		998          			
+Y3Sc0.9Fe1.1Fe3O12		320		678				
+CuCr2S4			360	       2266                      powder
+-				335	       2266                      crystal
+Cu0.60Mn0.40		        130		2320                     gamma
+Cu2Mn1.02Al0.07		561	        2305                     annealed
+-				613	        2305                     quenched
+Ce			        8		2286	                  gamma	
+Cr7Te8				332    	2170	                  ordered
+-				343		2170                     disordered
+GdCd2			        129		2231                     alpha		
+Fe0.5Cu0.5Cr2S4		340		2266                      powder
+-				315		2266                      crystal			
+Fe0.712Ni0.288			373		2381	
+Fe0.7018Ni0.2982		348		2189	
+Fe0.568Ni0.432			713		2381	
+Fe0.5557Ni0.44			723		2189	
+Fe5Sn3				588		2431                      gamma2
+-			        632		2431                      gamma33
+Gd				297		2231	                  a-	
+Mn3Ge2				158		2325                      TC1
+Mn3Ge2				283		2325                       TC2	
+Ni0.974Cr0.026			518		2282
+Ni0.949Cr0.051			390		2282
+Ni0.923Cr0.077			235		2282
+Ni0.906Cr0.094			130		2282
+Ni0.875Cr0.125			11		2282
+Pr				9		2286	                  beta-
+FeOOH                          450		214                      delta
+-                              460		1232                     delta 
+-                              455		1422                     delta(C1=455)
+-                              420		1422                     delta(C2=420)				
+UH3				174		1415,1416                beta
+-				185		1889
+MnAs	              		311	        2246                     free_film
+-	            		339	        2246                     clamped_film
+-				318		2183	
+CoSiF6.6H2O      		259±1		272				heating
+-		     		246±2		272				cooling
+Cr7Te8				361		1610      			disordered
+-				350		1610	        		ordered		
+Cu0.55Ni0.45			5		2120				quenched
+-				10		2120				annealed
+Cu0.5Ni0.5			38.8		2120				quenched
+-				62.5		2120				annealed
+Cu0.45Ni0.55			134		2120				quenched
+-				133		2120				annealed
+Cu0.5Zn0.3Fe2.2O4		480		2077				heated_in_air,quenched
+-				558		2077				heated_in_air,slowly_cooled
+Cu0.5Zn0.5Fe2O4		346		2077				heated_in_air,quenched
+-				420		2077				heated_in_air,slowly_cooled	
+Cu0.9Zn0.3Fe1.8O4		463		2077				heated_in_air,quenched
+-				573		2077				heated_in_air,slowly_cooled
+Fe0.54V0.46		 	165		1440				annealed_at_650°C		
+-				100		1440				quenched_from_1000°C			
+H	 			1		1575	                       (at_10^4_g/cm3)_theoretical				
+-				10		1575	                       (at_10^6_g/cm3)_theoretical
+Li0.5CuFe4.5O8		        818		615				slowly_cooled
+-			809		615				quenched	
+Mn2.85Ga1.15			470±10		2004				DO19_Phase 
+-				>770		2004				DO22_Phase	
+MnVO3				70		2148				Ilmemite
+-				65		2148				Perovskite			
+Pt1.01Mn0.99Sn1.00		360		1758				water-quenched
+-				353		1758				slow-cooled			
+Tb1Ho1				79		1596	
+Tb0.90Ho0.10			196		1981	
+Tb0.50Ho0.50			78		461	
+-				80		1981	
+Tb0.10Ho0.90			22		1981		
+Tm				38		2308			 	(ferri-)
+-				22		2308				(ferro-)
+-				22		2204			
+HoNi1.84Al0.16			30		1800		
+HoNi0.45Al1.55		        31	        1800
+Sm0.1Gd2.24Tb0.66Fe5O12	267		2103
+U3Bi4				108		917,1039
+Dy0.75Ho0.25		        50		2220
+Eu2SiO4 		        5.40		2452	                         monoclinic
+MoCl5.C                	15		2187	                         graphite_layers
+Pd0.9865Mn0.0135		4.5		2456
+Fe1.95Ge0.05Cu1.05O4  		719		1527	
+Fe1.8Ge0.10Cu1.10O4   		709		1527	
+Fe1.6Ge0.20Cu1.20O4   		700		1527	
+Fe1.4Ge0.30Cu1.30O4   		700	        1527
+Fe0.995Mn0.005			1042.0	        251		                0.5-2.4_at.%_Mn
+Fe0.976Mn0.024			1017.8    	251		                0.5-2.4_at.%_Mn
+Fe0.995Mo0.005			1042.6	        251	   			0.5-3.0_at.%_Mo
+Fe0.97Mo0.03			1032.4	        251	   			0.5-3.0_at.%_Mo
+Fe0.991Si0.009			1043.9	        251				0.9-7.4_at.%_Si
+Fe0.926Si0.074			1012.6	        251				0.9-7.4_at.%_Si
+Fe0.92Sn0.08			1033		1133,2075
+Fe0.75Zr0.25                   590		530	                       25-36_at.%_Zr
+Fe0.64Zr0.36                   780		530	                       25-36_at.%_Zr
+FeCr2S4			195		2292	
+-			 	185		2266		                powder
+-				160            2266                            crystal
+CuFe1.8Ga0.2O4      		681		806				slowly_cooled
+-    				679		806				quenched			
+CuFe1Ga1O4    			409		806				slowly_cooled
+-				313		806				quenched	
+Li0.45Fe0.5Zn0.1Fe2O4		873		1912	
+Li0.41Fe0.9Zn0.18Fe2O4		823		1912
+Li0.38Fe1.2Zn0.24Fe2O4		773		1912	
+V0Cr1Mn0Te			335		2306	
+V0.1Cr0.8Mn0.1Te		330		2306
+V0.2Cr0.6Mn0.2Te		320		2306
+V0.3Cr0.4Mn0.3Te		270		2306
+Fe1.9Ge0.05Cu1.05O4  		719		1527		
+Fe1.8Ge0.10Cu1.1O4  		709		1527
+Fe1.6Ge0.20Cu1.2O4   		700		1527	
+Fe1.4Ge0.30Cu1.3O4  		700		1527	
+Co1.1Fe1.8Ti0.1O4  		755		281
+Co1.5Fe1Ti0.5O4   		450		281
+Co1.8Fe0.4Ti0.8O4 		200		281	
+Mg1Fe2Sb0O4			715		281			
+Mg1.2Fe1.7Sb0.1O4		620		281		
+Mg1.6Fe1.1Sb0.3O4		370		281		
+Li0.5Fe2.5Sb0O4		955		281		
+Li0.75Fe2Sb0.25O4		750		281		
+Li0.6Fe2.3Sb0.1O4		885		281
+Ni1Fe2Sb0O4			858		281
+Ni1.2Fe1.7Sb0.10O4		820		281
+Ni1.5Fe1.25Sb0.25O4		710		281
+Ni1Ge0Fe2O4			860		1158
+Ni0.92Ge0.08Fe0.32O4		810		1158
+Ni0.7Ge0.3Fe1.2O4		680		1158
+Ni0.59Ge0.41Fe1.18O4		610		1158
+Y0.3Ca2.7Fe3.65V1.35O12	494		1541
+Y2.4Ca0.6Fe4.7V0.3O12		540		1541	
+Y3Ca0Fe5V0In0O12		521		1585	
+Y2.4Ca0.6Fe4.4V0.3In0.3O12	460		1585
+Y3Ca0Fe4.6V0In0.4O12		444		1585
+Y2.2Ca0.8Fe4.2V0.4In0.4O12	438		1585
+Y3Ca0Fe4.5V0In0.5O12		422		1585
+Y2Ca1Fe4V0.5In0.5O12		415		1585
+Y3Ca0Fe4.4V0In0.6O12		397		1585
+Y1.8Ca1.2Fe3.8V0.6In0.6O12	382		1585
+Y3Ca0Fe4.3V0In0.7O12		377		1585
+Y1.6Ca1.4Fe3.6V0.7In0.7O12	357		1585		
+Y3Co0.8Fe3.4Ge0.8O12		420		282	
+Y3Co2.2Fe0.6Ge2.2O12		50		282
+-				60		2248
+Dy3Co0Fe5Ge0O12		570		2368
+Dy3Co0.4Fe4.2Ge0.4O12		472		2368
+Dy3Co1.0Fe3Ge1.0O12		350		2368
+Dy3Co1.5Fe2Ge1.5O12		225		2368
+Dy3Co2Fe1Ge2O12		101		2368
+Gd3Co0.4Fe4.2Ge0.4O12		470		2368
+Gd3Co1.0Fe3Ge1O12		350		2368
+Gd3Co1.5Fe2Ge1.5O12		221		2368
+Gd3Co2Fe1Ge2O12		102		2368
+Tb3Co0Fe5Ge0O12		565		2368
+Tb3Co0.4Fe4.2Ge0.4O12		465		2368
+Tb3Co1Fe3Ge1O12		348		2368
+Tb3Co1.5Fe2Ge1.5O12		228		2368
+Tb3Co2Fe1Ge2O12		103		2368	
+ThNi4Fe1			170		2415
+ThNi2Fe3			420		2415
+ThNi1Fe4			525		2415
+Y3Co0.2Fe4.6Ge0.2O12		514		2248
+ThCo4Fe1			585		2415
+ThCo2Fe3			660		2415
+ThCo4Fe1			695		2415
+Zn0.1Fe2.9O3.9F0.1		545		2348
+Zn0.25Fe2.75O3.75F0.25		470		2348
+Zn0.4Fe2.6O3.6F0.4		400		2348
+Zn0.5Fe2.5O3.5F0.5		365		2348
+BaFe10.8Sc1.2O19   		>500		1058					
+BaFe10.2Sc1.8O19   		600		1058	
+BaFe11Cr1O12			670		2296
+BaFe10Cr2O12			630		2296
+BaFe9Cr3O12			600		2296
+(Y3Ca0)(Fe5Ge0)O12		563		1980
+(Y2.5Ca0.5)(Fe4.5Ge0.5)O12	478		1980
+(Y1.5Ca1.5)(Fe3.5Ge1.5)O12	353		1980
+BaAl0Fe12O19			718		1804	
+BaAl2Fe10O19 			618		1804					
+BaAl4Fe8O19  			514		1804					
+BaAl6Fe6O19  			414		1804					
+BaAl8Fe4O19 			314		1804	
+Li0.5Fe2.5Al0O4		1184		1866
+Li0.5Fe2.336Al0.164O4		1124		1866
+Li0.5Fe2.17Al0.33O4		1071		1866
+Li0.5Fe1.7Al0.8O4		650		1861
+Li0.5Fe2.44Ga0.06O4		850		1481
+Li0.5Fe2.07Ga0.43O4		705		1481
+Li0.5Fe1.32Ga1.18O4		301		1481	
+Li0.5Fe2.5Rh0O4		958		281		
+Li0.5Fe1.5Rh1O4		580		281		
+Li0.5Fe0.5Rh2O4		130		281
+Er0.333Fe0.60Al0.067		>297		2302
+Er0.333Fe0.334Al0.333		56		2302
+Er0.333Fe0.067Al0.60		16		2302
+Er0.333Fe0Al0.667		20.5		2302

@@ -1,0 +1,223 @@
+CuFe5O8			
+&  (40% Fe3O4)			618		908		
+-				630		1446				quenched
+FeOOH				
+&     (delta)			450		214
+&     (delta)			460		1232
+&     (delta)			455		1422				C1 = 455
+-				420		1422				C2 = 420
+FeP		            	NODATA	        1475				non-ferromagnetic
+TbCo2				256r-237	306	
+-				256		736	
+-				245		257
+UH3					
+&	beta			174		1415,1416
+-				185		1889	
+MnAs				---		2246
+&	free film		311	
+&	clamped film		339	
+-				318		2183
+CoSiF6.6H2O			---              272		
+-      				259±1						heating
+-      				246±2						cooling
+Cr7Te8			       ----		1610		
+-				361		      				disordered
+-				350			        		ordered	
+Cu0.55Ni0.45		        ----		2120	
+-				5						quenched
+-				10						annealed
+Cu0.5Ni0.5		       ----		2120	
+-				38.8						quenched
+-				62.5						annealed
+Cu0.45Ni0.55		       ---		2120	
+-				134						quenched
+-				133						annealed
+Cu0.5Zn0.3Fe2.2O4	        ----		2077	
+-				480						heated in air, quenched
+-				558						heated in air, slowly cooled
+Cu0.5Zn0.5Fe2O4		        ---		2077	
+-				346						heated in air, quenched
+-				420						heated in air, slowly cooled
+Cu0.9Zn0.3Fe1.8O4		--- 		2077	
+-				463						heated in air, quenched
+-				573						heated in air, slowly cooled
+Fe0.54V0.46		        ----		1440	
+-		 		165						annealed at 650°C		
+-				100						quenched from 1000°C
+H 				----		1575    (theoretical)				
+-	 			1			(at 10^4 g/cm3)				
+-				10			(at 10^6 g/cm3)
+Li0.5CuFe4.5O8			----		615
+-				818						slowly cooled
+-				809						quenched
+Mn2.85Ga1.15			----		2004	
+-				470±10						DO19 Phase 
+-				> 770						DO22 Phase	
+MnVO3				---		2148	
+-				70							Ilmemite
+-				65							Perovskite
+Pt1.01Mn0.99Sn1.00		----		1758			
+-				360						water-quenched
+-				353						slow-cooled
+Tb-Ho				
+-				79		1596	
+&   	% Ho
+&	10			196		1981	
+&	50			78		461	
+&	50			80		1981	
+&	90			22		1981	
+Tm				--		2308	
+-				38					 	(ferri-)
+-				22						(ferro-)
+-				22		2204	
+HoNi2-xAlx					1800		
+-	x = 0.16		30				
+-	x = 1. 55		31		
+ZrZn2				·16		1244
+ZrZn2				18		2365
+-				22.1-1.8P	2421				(P in kbar)
+Ca2(FeMo)O6			NODATA		1823					(ferri. )	
+CaFe4O7 3.Omol%Gd2O3		393		453
+CoF2 5HF.6H2O			246		1223	
+Ferrites		        tabulation	467	
+Garnets			tabulation	467
+GdCl3				2.20		360	
+				2.218		2168	
+2 at. % Ho-Au			0.001		1172	
+55 at. %Mn-45 at. % Al		623		468	
+ReNi S,ReNi2, ReNi		85-1.4		289		
+Sm0.1Gd2. 24Tb0.66Fe5O12	267		2103	
+RbMgFr3 -500 at. % RbCoF3	36		1516	
+Spinels			        tabulation	467	
+U3Bi4				1O8    	917,1039
+YIG: Nd				548-568		305					0-40% Nd2O3
+75% Dy - 25% Ho			50		2220
+EuS -	1.1 mole % EuBr2	39		2274	
+EuSe -	(Cl doped)		18		2274		
+EuSe -	0.48 mole % EuBr2	12-15		2274	
+Eu2SiO4 (monoclinic)		5.40		2452	
+MoCl5.C (graphite layers)	15		2187	
+Pd -	1.35 at. % Mn		4.5		2456	
+Bi0.3Ca2.68Pb0.02Fe3.65						
+&   	V1.35O12: CoO	        ---		1922		
+&   	CoO wt%:						
+&     	0			501±3			
+&     	0.03			502±3			
+&    	0.06			500±3		
+AlNiCo(22Co-2Ti)		1143		745	
+(Ce-mischmetal)Co5	        500		504	
+CrO2-Fe			389		335		        	at % 0-20 Te	
+ErCo2-ErAl2		       ----		742		
+&     		               86				               +10 mole ErAl2
+&                              25				               +50 mole ErAl2
+&				24				               +85 mole ErAl2
+BaO0.75SrO0.25+6Fe2O3		713		1822
+& 	                       713		1822                           +1.11 mole B2O3
+& 		               563		1822                           +1.51 mole Al2O3
+& 		               618		1822                           +0.65 mole Ga2O3
+Er-Th    %5 Fe			150		2079	
+Er-Th    7 wt. % Fe		>180		1982	
+&    7.7 %Fe			180		2079	
+&    2 % Gd			123		1772	
+&   2.5 wt.% Gd		120		2109	
+&   (doped with Re2O3)		135		643	
+&    10 %  Ga			272		2144	
+# (EuO)1-x(RS)x			73-132		1143    			R = rare earth(0.01 < x < 0.30)
+Fe-Ge				1046.2-1022.0	251       			0.6-10.1 at. % Ge
+ESD(Fe-Co-O)(35Co)		1238		745	
+70Fe-30Co-P			363		787
+Fe2(1-s)GesCu1+sO4	       ----		1527
+&   s =	0.05			719			
+&   s =	0.10			709			
+&   s =	0.20			700			
+&   s =	0.30			700		
+(Fe,Cr)3P-Cr		       ---		1033				%%%%% NEEDS TO BE CHECKED FROM REFERENCE
+&   				489		1033				13.04 at. % Cr
+&   				99		1033				33.33 at. % Cr
+Fe-Mn				1042.0-1017.8	251		                0.5-2.4 at. % Mn
+Fe-Mn-Ge			435		1857
+Fe-Mo				1042.6-1032.4	251	   			0.5-3.0 at. % Mo
+Fe-Ni-Sb 			590-858		1149	   		Spinels
+Fe2O3				848		763
+Fe2O3   			948		715                           alpha
+Fe2O3   			950		577                           alpha
+Fe2O3    			956±2		1066                          alpha
+Fe2O3    			959		755                           alpha
+Fe2O3   			963±5		774                           alpha
+Fe2O3   			483		561                           epsilon
+Fe2O3   			743		438                           gamma
+Fe-Si				1043.9-1012.6	251				0.9-7.4  at.  % Si
+Fe-8%Sn			1033		1133,2075
+Fe-Zr                         590-780		530	                      25-36 at. % Zr
+GdCo2-GdAl2		       ----		742	
+&              		291		742	      	              +10 mole %GdAl2
+&				116		742		              +50 mole %GdAl2
+&				82		742		              +70 mole %GdAl2
+&				180		742		              +100 mole %GdAl2
+GdFe2-GdAl2		        ---		742
+&   	                       264		742                           +50 mole % GdAl2
+&                      	138		742                           +92.5 mole % GdAl2	
+# Gd(Co1-xNix)2		80-425 		1536				0<x<1
+GdNi2-GdAl2			---		742	
+&	       		66		742	  +50 mole % GdAl2	
+&				181		742	  +92.5 mole % GdAl2
+Gd0.92Lu0.08	        	274-42		52
+Mg2SnO4-MgFe2O4		220		1211	
+Mn-AI-Co Co rich:		370		378	
+Mn-AI-Co Mn rich:		446		378	
+# (MnxNi4-x)(Mn2-xNix)O4		ll6		402				x=0.93
+Eta-Mn-Ga			210		44				
+MnO-35.5%,ZnO-15%,Fe2O3 49.5%	467.5		398
+MnO-26%,ZnO-24%,Fe2O3-50%	368.5		398
+Mn-Zn				>450		1076					Beta_1_Phase_decomposes
+Ni-1% Fe-57			641		1843
+Ni-C				--- 		1507   					decreases ~ 30K/at.%C
+Ni0.5Cu0.5			---		1407		
+&	(H/Ni = 0.086)		50	
+NiO-Li2O			---		1573	
+&	2 at. % Li		258		
+&	20 at. % Li		230		
+&	30 at. % Li		190		
+# PrHx				4.2		1064				x=0.99-2.57  no ordering to 4.2
+PrAl2-PrCo2			---		742		
+&	0 mol % PrCo2		35				
+&	90			45				
+&	22.5			24						
+PrAl2-PrMn2(15 mol %)		26		742
+RE3Fe5O12			----		1540			
+&    RE = Gd,Tb,Dy,Ho,Er,Yb,Tm,Y	530-555						magnetocaloric effect	
+RbMgF5-RbCoF3			----		1389		
+&	> 35 % RbCoF3		36		
+Tb-Lu				180±10		24	
+&	95.3% Tb		180		395
+UAs-USe				---		1153	
+&	       		184		1153                +8 mole % USe		
+&		       	138	        1153               +35 mole % USe	
+&			        140		1153               +40 mole % USe		
+&	        		171             1153               +100 mole % USe
+# TiFexCo1-x			50		499	     			0.3 < x < 0.7 
+UP-US				---		1574		
+&	0.2 US			90				
+&	0.4 US			130				
+&	0.6 US			159				
+&	0.8 US			175	
+U3P4-U3As4			---		1881		
+&	U3P4 %:						
+&	0.2			161				
+&	0.4			176			
+&	0.8			181	
+# Y3Fe5O12-xFx			560-542		2036					x= 0-1
+# Y3Fe5-xZnxO12-xFx		560-541		2036					x= 0-0.5
+# Y3GaxFe5-xO12			327-394		441					x =1.46 to 1.3
+# (3-x)Y2O3·xSm2O3·5Fe2O3		570±10		374	   			x = 0 to 3
+CoF25HF-6H2O			246±2		2478
+FeCr2S4			195		2292	
+&	(powder)	 	185		2266		
+&	(crystal)		160
+GdAl 2 _ x Ni x			---		2207	
+&	x = 0.1			191				
+&	x = 0.45		68			
+Ni (in SiO2)			----		2228	
+&	Vol % Ni				
+&	48			188		
+&	52			295	

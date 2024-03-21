@@ -1,0 +1,288 @@
+Al2O4: Ti			3				2058
+9H				
+BiMn2O5				52				1081
+-			200				31 			Cd_and_Zn_manganites
+-			0.8<=x<=1				
+CoCl2*6D2O	    		2.40            		1643
+Cr(0.5% Fe, 0.16% Ni) 		300				322
+Cr2 at % Pt			563				1532
+CrSe1.10			205, 92				184			annealed_but_two_phases
+CuCl2*2D2O			4.3				690
+&92%D2O
+Ce2Mg3(NO3)1224H2O		1.8e-3				1539
+&molar volume =21 cc/mole	0.3±0.21			1992
+&molar volume =24 cc/mole	2±0.26				1992
+BiFeO3-40% LaFeO3		420				1482	
+Dy-Y								395
+% Dy
+&  90.0    			163
+&  50.0    			108
+&  20.0    			59
+&   20 			    59     				24
+				168-59          		24
+(Fe)		                643             		1289
+-				620                             55, 363			(Fe)
+				5.3				1286
+(Er)		                4.3 		                126, 1289
+				3.9		                1288
+Er0.90DY0.l0			                                1320
+ N1				80	
+ N2				100 
+ErCrO3 	               133.2,16.8		        519  
+				133.2				1707
+				133,16.8			482
+								1906			No_phase_cahnge_at_16.8 _K
+				9.82±0.02		        2019	
+								2035			No_AF_transition_1_to_20_K
+
+Fe		                67                      	1920			fcc_neutron_diffraction
+lambda-Fe			8				323	
+				55-67				607
+FeGe2				287±2                          963±3 				(Q)_Mossbauer
+lambda Fe-MN
+& Mn 13-60%			190-500				552,839,327,916,917,918
+FeMnAs 	         		463             		229
+(Fe,Mn)>2As
+Mn/Fe = 2.04			456
+      = 1.66			452
+      = 1.90			460
+      Fe-Mn
+& Mn: 17%			240				327
+FeO             		198, 187     			55,56,57
+-				186				541
+3Fe(OH)2*2FeSO4 		8.5                             1795  
+FePt3-xPdx							215
+(1/2, 1/2, 0)			160-180
+(1/2, 0, 0)			145-160
+Fe-30 at % Ru        		100             		1200
+				15				1432
+(Fe2O3)1-x(Rh2O3)x						215,758			by_neutron_diffraction
+&	x = 0     		950±10                                    
+&	x = 0.11      		875±15                                                
+&	x = 0.22        	760±15                                                
+&	x = 0.25        	715±10                                                
+&	x = 0.41        	575±25                                                
+&	x = 0.51        	455±15                                                
+&	x = 0.66	        290±10                                               
+&	x = 0.81        	cca 100 
+GdCl3*6H2O    			0.185±0.001 			1052
+-				638             		0.183 
+N2      			1.47            		1721
+(Gd)    			2.16            		1288
+				2.5(Gd)				127
+				55 to 90% Lu			0.1				2021
+				320-80				52	
+Ho-Y								
+& Ho:	10% to 100%		26-133				395,24				
+&	20% to 100%		23-132				40
+& 32.3% Ho			57				40
+Gd3Fe5O12             		                		1425
+N1				90		
+N2				328
+LixV2-xO2             		463             		1257
+MgCr2O4                	15              		317,1097,1319
+				77				624
+				N1 = 16				1891				=_is_approximate
+				N2 = 13.5			1891
+MgO: 9 cat. % Fe     		>8              		1549
+MnAs            		400             		181
+N2              		388         			1683			AF_question_ordered
+Mn3B4			        393             		426
+-				392				956
+-				N1=210				1872			= is approx.
+-				N2=410				1872			= is approx.
+MnCl2*4D2O            		1.59		                1641
+-				1.588±0.002 			1410,1671
+(Mn1-xCrx)2O3	
+&	x = 0.01		N1 80
+&	x = 0.075         	N1 72				1917
+&				N2 57
+Mn(DCOO)2*2D2O                	3.7             		1335
+MnF2*10% ZnF2          		61              		815
+MnF2.56% ZnF2         		18              		815
+Mn2-xFexO3                  					1567
+&	x = 0
+N1				90
+N2				50
+	x = 0.04		
+N1				70± 30
+N2				26± 4
+	x = 0.2
+N1				40
+N2				34
+(Mnl-x,Fex)WO4  				                1583
+&	x = 0			14.4
+&	x = 0.2
+N1				22							neutron diffraction
+N2				8.5							neutron diffraction
+	x = 0.5										susceptibility
+	x = 0.7
+N1				60.6							neutron diffraction
+N2				58.8							susceptibility
+	x = 1			75.9
+(Mn1-xGax)2O3			
+	x = 0.01		N1 78				1917
+				N2 26
+	x = 0.06		N1 55				1917
+	x = 0.27		N1 16				1917
+2H2O
+Mn2O3   			82            			488 
+-				80              		189 
+(a)     			79              		1022 
+alpha N1 	      		90              		1567 
+alpha N2       			50		                1567
+Mn2Pd3        			653             		1551
+N1      			643±10    			1552
+N2      			613±10    			1552
+MnS 				1.07        			156 ± 0.5
+(Mn1-xScx)2O3			N1 79				1917
+-				N2 23
+NdCrO3  			224             		519,482
+-				10				519
+NdMnO3
+-	N1      		85              		808,1834
+-	N2      		1.50            		808
+(Ni,Fe)3Mn							786
+-	50% Fe			205
+-	75% Fe          	425  
+Ni(HCOO)2*2H2O              	15:7            		178 
+Ni(NH3)2*Ni(Cn)4*2C6H6         2.37            		1757  
+O2				24				1357
+	(a)     		>20             		1601
+				35 (calc.)              	1152
+Pb(Co0.5Ta0.5)O3-  		153             		757				1_mole_%_La2O3
+Pd3Mn  			170             		49
+-				653             		1062
+Pr								1971				no_Af_ordering_to_4.2_K_in_monocrystal
+PrAl2-PrAg2(15 mol %)           12              		742  
+PrAl2-PrCo2                     6.5             		742 
+	15 mol % PrCo2
+PrAl2-PrCu2 (15 mol %)          13              		742
+PrAl2-PrFe2 (15 mol %)          13              		742
+PrAl2-PrNi2 (15 mol %)          14.5            		742
+PrMnO3                                       
+	N1                      91              		808,1834 
+	N2			1.50            		808
+Pt-26.7 at. % Fe        			                702 
+(1/2,1/2,0)			165
+(1/2,0,0)			125
+Pu                      			                1468			No_Tn_to_16
+PuC1-x  			100				943,966
+RE2O2S       				                        1595
+(RE = Gd, Th, Dy, Ho, Yb)	2.5 to 7.7
+SmMnO3
+	N1      		60              		808,1834
+SrFe0.5Cr0.5O3-y        	230		                1397
+SrFeO3-SrTiO3        		<60 		       	353
+SrMnO3                  					1808
+	6H			90
+	4H			350
+SrTi(1-x)FexO(3-x/2(phi)x/2                    			989			phi = oxygen vacanvy
+	x = 0.9  		75
+	x = 0.95 		110
+TbCrO3  			117.6           		519 
+	Nl      		158             		1004
+	N2      		4               		1004
+	N3      		3.05		            	1004 
+TbFeO3  			3.1             		545,1921 
+N3      `			3.1             		1004
+	(Tb)    		3.1             		1289 
+				3.2             		1161 
+				8.4             		545
+N2      			8.4             		1004 
+				647             		828, 700
+				681             		545 
+N1      			681             		1004 
+Tb-Lu           		228-80          		24,395			Tb 100% to 30%
+TbMn03
+N1              		<30             		808
+N2              		4.2             		808
+				<2              		1834
+				<13.8           		808
+Tb-Sc
+&	Tb %
+&	90      		200
+&	80      		174
+&	51      		104
+&	25      		<1.3
+Tb-Y
+	Tb%: 5-100   		25-228          		395,24
+				10-70   50-188          	40
+TiO1.75,TiO1.80,TiO1.83        403                   	486 
+Ti4O7, Ti5O9, Ti6O11            130                  	889 
+TmC2								2041				no_ordering_at_1.7_K
+Tm-Y
+& 	Tm % to:
+&	55			37
+&	14.9			20 ± 8
+UAs-USe                                         		1153
+&	0 mole  % USe   	128
+&	35 mole % USe           132
+&	40 mole % USe           134
+UP0.98S0.02			N1 124±2     			1278 
+-				N2 23-25
+UP0.95S0.05			N1 122±3            		1278,1306
+-				N2 27-35                      	1544
+UP0.92S0.08			N1 110±3                      1278,1544
+-				N2 32-42
+UP0.90S0.10			N1 102±3                      1278,1544,1896
+-				N2 79-87                        1278,1544
+-				N3 41-53                        1278,1544
+UP0.75S0.25			N1 65±5     			1731
+-				N2 20±3
+UP-50% at % ThP		115                     	764
+UP-US                                                   	1574
+&	0.2 US                  140
+&	0.4 US                  180
+&	0.6 US                  200
+&	0.8 US                  210-15
+Er(1-x)BixFeO3							1236
+& 0<x<3				638±1 							less_than_are_less_than_or_equal_to
+Fe         		60 	                        1744             gel
+Cr2O3-Al2O3							1877
+& 90 mole % Cr203		275		
+& 60 mole % Cr203         	188
+& 40 mole % Cr203        	50
+Cr2O3-0.35%Fe2O3		289				1042
+Cr2O3-10 mol %Fe2O3		247				1439
+Cr2O3-22 mol %Fe2O3		146				1439 
+Cr2O3-26 mol %Fe2O3		210				1439
+Cr2O3-28 mol %Fe2O3 		216				1439
+Cr2O3-30 mol %Fe2O3 		222				1439
+Cr2O3-Al2O3							1877
+& 90 mole % Cr203		275		
+& 60 mole % Cr203         	188
+& 40 mole % Cr203        	50
+Cr2O3-0.35%Fe2O3		289				1042
+Cr2O3-10 mol %Fe2O3		247				1439
+Cr2O3-22 mol %Fe2O3		146				1439 
+Cr2O3-26 mol %Fe2O3		210				1439
+Cr2O3-28 mol %Fe2O3 		216				1439
+Cr2O3-30 mol %Fe2O3 		222				1439
+Gd-Lu
+& Gd %:	
+Gd0.60Lu0.40			192
+Gd0.20Lu0.80			100	
+Gd-Y				11.5±0.5                      1996					
+Mn2O3-2 mole % Fe203    	40            			488
+Cr-Ru
+& 70% Ru
+Cr-Ru0.003  0.3				385				1903
+Cr-Ru0.0065 0.65				460				1903
+Cr-Ru0.009  0.9				507				1711
+Cr-Ru0.020  2.0				573				1903
+Cr-Ru0.048  4.8				558				1711
+Cr-Ru0.006  0.6				433				2047,2048
+Cr-Ru0.060  6.0				568				2047,2048
+Cr-Ru0.100  10.0				483				2047,2048
+Cr-Ru0.140  14.0				308				2047,2048
+1.1%Li				284.5				1874
+CaMnSiO4			9				339,520		 
+N1				16				1327
+(Y3Fe5O12)1-x(Ca3Fe2-Si3O12)x					747				
+&	x = 0.60                302
+&	x = 0.70         	234
+&	x = 0.82                130
+N2				9				1327
+Cr N2				122				1599			recalescence
+Fel/4NbSe2              	175             		1695

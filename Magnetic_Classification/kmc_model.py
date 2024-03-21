@@ -21,5 +21,5 @@ X = scale(np.loadtxt(temp_path))
 Y = np.genfromtxt(chem_path, dtype=str)
 
 #initializing clustering model
-#clustering = KMeans(n_clusters=3, random_state=5, n_init='auto')
-#clustering.fit(X)
+clustering = KMeans(n_clusters=3, random_state=5, n_init='auto')
+clustering.fit(X)

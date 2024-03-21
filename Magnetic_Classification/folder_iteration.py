@@ -9,3 +9,4 @@ for filename in os.listdir('magndata/mcif'):
     parser = CifParser.from_str(molecule)
     structure = parser.parse_structures()[0]
     print(structure)
+    

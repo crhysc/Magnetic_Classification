@@ -4,7 +4,7 @@ import subprocess
 
 
 #create chem-comp vector
-with open('romerodata/curie/processed_curie.json') as f:
+with open('Magnetic_Classification/romerodata/curie/processed_curie.json') as f:
     processed_curie = json.load(f)
 
 comp_list = []
@@ -17,7 +17,7 @@ subprocess.run(['open', 'Magnetic_Classification/rhysdata/chemical_comps.txt'])
 
 
 #create curie temp vector
-with open('romerodata/curie/processed_curie.json') as f:
+with open('Magnetic_Classification/romerodata/curie/processed_curie.json') as f:
     processed_curie = json.load(f)
 
 temp_list = []

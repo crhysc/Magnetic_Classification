@@ -3,7 +3,8 @@ import numpy as np
 import sklearn
 from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score, davies_bouldin_score
-from sklearn.model_selection import GridSearchCV
+
+from clusteval import clusteval
 
 if __name__ == '__main__':
     
@@ -20,23 +21,23 @@ if __name__ == '__main__':
     X = np.delete(X, deleted_rows, 0)
     
 
-    #model fit
-    param_grid = {'n_clusters': range(1, 11)}
-
-    clustering = KMeans(random_state=5, n_init='auto')
-    grid_search = GridSearchCV(estimator=clustering, param_grid=param_grid, cv=5, scoring='silhouette_score')
-    grid_search.fit(X)
-
-    best_estimator = grid_search.best_estimator_
-    print(f"Best Parameters: {grid_search.best_params_}")
-    best_estimator.fit(X)
-
-    y_pred = best_estimator.labels_
-
+    #tune n_clusters hyperparameter
+    ce = clusteval(cluster='agglomerative', evaluate='silhouette')
+    results = ce.fit(X)
+    ce.plot()
+    ce.scatter(X)
+    cluster_labels = results['labx']
+    #    **optimal number of clusters appears to be 4**
     
-    # Compute silhouette score & Davies-Bouldin index
+    #model fit
+    clustering = KMeans(n_clusters=4, random_state=5, n_init='auto')
+    clustering.fit(X)
+    y_pred = clustering.predict(X)
+    
+    # Compute silhouette score
     silhouette = silhouette_score(X, y_pred)
     print("Silhouette Score:", silhouette)
 
+    # Compute Davies-Bouldin index
     db_index = davies_bouldin_score(X, y_pred)
     print("Davies-Bouldin Index:", db_index)

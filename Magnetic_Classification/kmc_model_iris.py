@@ -38,7 +38,7 @@ plt.title('Ground Truth Classification')
 plt.subplot(1,2,2)
 plt.scatter(x=iris_df.Petal_Length, y=iris_df.Petal_Width, c=color_theme[clustering.labels_], s=50)
 plt.title('K Means Classification')
-#plt.show()
+plt.show()
 
 #relabel
 relabel = np.choose(clustering.labels_,[2,0,1]).astype(np.int64)
@@ -52,4 +52,3 @@ plt.title('K Means Classification')
 
 #analysis
 print(classification_report(Y, clustering.labels_))
-

@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 import os
 import json
+import subprocess
 
 import matplotlib.pyplot as plt
 
@@ -33,23 +34,32 @@ if __name__ == '__main__':
             feature_dict['formula'].append(processed_curie[key]["composition"])
             feature_dict['property'].append(processed_curie[key]["curie_temperature"])
     df = pd.DataFrame(feature_dict)
+    print("\n FEATURE DATA FRAME")
     print(df.head())
+    print("\n")
+
+
     df = StrToComposition().featurize_dataframe(df, "formula")
+    print("\n STRING TO COMPOSITION")
     print(df.head())
     print(type(df["composition"].values[0]))
-
-    #ep_feat = ElementFraction.from_preset(preset_name="pymatgen")
-    #df = ep_feat.featurize_dataframe(df, col_id="composition")  # input the "composition" column to the featurizer
-    #print(df.head())
-
-# MultipleFeaturizer([ElementFraction(),ElementProperty.from_preset(preset_name="magpie")])
+    print("\n")
 
     composition_featurizer = MultipleFeaturizer([ElementFraction()])
     composition_features = composition_featurizer.featurize_dataframe(df,"composition", ignore_errors=True)
+    print("\n MULTIPLE FEATURIZER")
     print(composition_features.head())
+    print("\n")
 
-# feature_names = composition_features.columns()[3:]
-
-    X = composition_features.values[:,[1,3]]
-    print(X)
+    X = composition_features.values[:,:]
+    X = np.delete(X, [0, 2], axis=1)
+    row_num = []
+    for iy, ix in np.ndindex(X.shape):
+        if X[iy,ix] == 'to':
+            row_num.append(iy)
+    X = np.delete(X, row_num, axis=0)
+    print("\n X INPUT DATA")
+    print(X[1])
     print(X.shape)
+    np.savetxt('Magnetic_Classification/rhysdata/X_data.txt', X, fmt='%s')
+    subprocess.run(['open', 'Magnetic_Classification/rhysdata/X_data.txt'])

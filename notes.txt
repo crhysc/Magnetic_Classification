@@ -1,0 +1,7 @@
+ep_feat = ElementFraction.from_preset(preset_name="pymatgen")
+df = ep_feat.featurize_dataframe(df, col_id="composition")  # input the "composition" column to the featurizer
+print(df.head())
+
+MultipleFeaturizer([ElementFraction(),ElementProperty.from_preset(preset_name="magpie")])
+
+# feature_names = composition_features.columns()[3:]

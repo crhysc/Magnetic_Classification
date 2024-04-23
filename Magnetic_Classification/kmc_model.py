@@ -1,20 +1,29 @@
-import numpy as np
-import pandas as pd
 import os
 import json
 import subprocess
 
+import numpy as np
+import pandas as pd
+
 import matplotlib.pyplot as plt
+import seaborn as sns
 
 import sklearn
 from sklearn.cluster import KMeans
 from sklearn import metrics
 from sklearn.metrics import silhouette_score, davies_bouldin_score
 import sklearn.metrics as sm
+from sklearn.model_selection import GridSearchCV
+from sklearn.pipeline import Pipeline
+from sklearn.linear_model import LogisticRegression
+from sklearn.decomposition import PCA
+
+
+from yellowbrick.cluster import KElbowVisualizer
+from clusteval import clusteval
 
 from matminer.featurizers.conversions import StrToComposition
 from matminer.featurizers.composition import ElementProperty, ElementFraction
-
 from matminer.featurizers.base import MultipleFeaturizer
 
 from yellowbrick.cluster import KElbowVisualizer
@@ -67,6 +76,11 @@ class data:
         subprocess.run(['open', '/Users/rhyscampbell/Documents/projects/Magnetic_Classification/rhysdata/dataframe.txt'])
 
         return df
+    
+    def preprepared():
+        with open('/Users/rhyscampbell/Documents/projects/Magnetic_Classification/dataframe.txt') as f:
+            data = np.loadtxt(f)
+        return data
 
 class n_clusters_tune:
     def elbow_method(X):
@@ -102,10 +116,15 @@ class evaluate_with_metrics:
         print('\n')
 
 class clustering:
-    def assign_labels(df):
+    def assign_cluster_labels(df):
         kmeans = KMeans(n_clusters=4, random_state=5, n_init='auto')  
         clustering_labels = kmeans.fit_predict(df)
         return clustering_labels
+    
+    def pca(df):
+        pca = PCA()
+        logistic = LogisticRegression(max_iter=10000)
+        pipe = Pipeline(steps=[('pca', pca), ('logistic', logistic)])
 
 class visalization:
     def data_histogram(path):
@@ -113,19 +132,39 @@ class visalization:
             processed_curie = json.load(f)
 
         #creating the data array
-        
         temp_list = []
-        
         for key in processed_curie:
                 temp_list.append(processed_curie[key]["curie_temperature"])
         array = np.array(temp_list)
+        indices_to_delete = []
+        for i, entry in enumerate(array):
+            if entry == 'to':
+                indices_to_delete.append(i)
+        array = np.delete(array, indices_to_delete)
+        array = array.astype(float)
+        
+        #creating the histogram
+        sns.histplot(array, bins=180, kde=True, color='lightgreen', edgecolor='red')
+        plt.xlabel('Curie Temperature (Kelvin)')
+        plt.ylabel('Occurences in Dataset')
+        plt.title('Curie Temperature Frequency')
+        plt.show()
+
         return array
 
 if __name__ == '__main__':
      
     #import data
     file_path = '/Users/rhyscampbell/Documents/projects/Magnetic_Classification/romerodata/curie/processed_curie.json'
-    
-    #histogram
-    array = visalization.data_histogram(file_path)
-    print(array)
+
+
+    ##histogram
+    #visalization.data_histogram(file_path)
+
+
+    ##prepare data for k-means
+    #data.prepare(file_path)
+
+
+    df = data.preprepared()
+    data.pca(df)
